@@ -8,7 +8,7 @@ public class Laroa1 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
     
-    System.out.println("Activity 2");
+    System.out.print("Activity 2");
     
         }
 }
